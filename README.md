@@ -18,7 +18,7 @@
 <h3> My Toolbox </h3>
 
 <details>
-  <summary><strong> Languages & Libraries </strong> <sub> (click to expand) </sub></summary>
+  <summary><strong> Programming Languages </strong> <sub> (click to expand) </sub></summary>
   <br>
   
   > [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
