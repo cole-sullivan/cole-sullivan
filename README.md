@@ -1,7 +1,5 @@
 ### Hi! I'm Cole 👋
-🎓 Recent graduate from the University of Alabama<br>
 👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
-❤️ Passionate about low-level programming, scripting, and college football
 
 ###### Programming Languages
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
