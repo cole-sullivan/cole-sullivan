@@ -1,4 +1,4 @@
-![Hello!](https://github.com/cole-sullivan/cole-sullivan/blob/3f5ea68027c3c9a8408c9431bce2fc3683b3e794/hello-dark.gif)
+<img src="https://github.com/cole-sullivan/cole-sullivan/blob/a759f927bea65729565fb016c8f70a4295325cea/01.gif" width="160">
 
 👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
 
