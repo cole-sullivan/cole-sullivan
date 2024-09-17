@@ -1,4 +1,4 @@
-<img src="https://github.com/cole-sullivan/cole-sullivan/blob/a759f927bea65729565fb016c8f70a4295325cea/01.gif" width="144">
+<img src="https://github.com/cole-sullivan/cole-sullivan/blob/9bca95904c50445c659a9f3837ebcc07f1bdf491/english.gif" width="144">
 
 👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
 
