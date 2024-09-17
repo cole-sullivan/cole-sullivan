@@ -1,4 +1,4 @@
-![alt text](https://github.com/cole-sullivan/cole-sullivan/blob/3f5ea68027c3c9a8408c9431bce2fc3683b3e794/hello-dark.gif)
+![Hello!](https://github.com/cole-sullivan/cole-sullivan/blob/3f5ea68027c3c9a8408c9431bce2fc3683b3e794/hello-dark.gif)
 
 👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
 
