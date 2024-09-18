@@ -1,4 +1,7 @@
-<img src="https://github.com/cole-sullivan/cole-sullivan/blob/9bca95904c50445c659a9f3837ebcc07f1bdf491/english.gif" width="144">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./hello-dark.gif" width="144">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./hello-light.gif" width="144">
+</picture>
 
 👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
 
