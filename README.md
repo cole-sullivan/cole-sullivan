@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./hello-dark.gif" width="216">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./hello-light.gif" width="216">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hello-dark.gif" width="216">
+  <img alt="Hello!" src="./assets/hello-light.gif" width="216">
 </picture>
 
 👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
