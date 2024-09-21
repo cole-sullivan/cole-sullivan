@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hello-dark.gif" width="216" height="40.5">
-  <img alt="Hello!" src="./assets/hello-light.gif" width="216" height="40.5">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hello-dark.gif" width="192" height="36">
+  <img alt="Hello!" src="./assets/hello-light.gif" width="192" height="36">
 </picture>
 
 👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
