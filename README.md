@@ -3,11 +3,20 @@
   <img alt="Hello!" src="./assets/hello-light.gif" width="192" height="36">
 </picture>
 
-👨‍💻 Right now I'm working on... building a Python interpreter from scratch <br>
+welcome to my github! right now I'm working on building a python interpreter from scratch
 
 ---
 
-<h3> Background </h3>
+<h3> contact </h3>
+
+  * [email](mailto:contact@colesullivan.us "contact@colesullivan.us")
+  * [linkedin](https://www.linkedin.com/in/sullivan-cole "in/sullivan-cole")
+
+feel free to reach out for any reason. emailing me is the best way to reach me, but my dms on linkedin are also open
+
+---
+
+<h3> background </h3>
 
 <details>
   <summary><strong> University of Alabama: BS, Computer Science </strong> <sub> (click to expand) </sub></summary>
@@ -19,7 +28,7 @@
 
 ---
 
-<h3> My Toolbox </h3>
+<h3> my toolbox </h3>
 
 <details>
   <summary><strong> Programming Languages </strong> <sub> (click to expand) </sub></summary>
