@@ -69,6 +69,7 @@ more can be found on my github profile, but may be incomplete
   > [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
   > [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
   > [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+  > [![Make](https://img.shields.io/badge/Make-A42E2B?logo=gnu&logoColor=fff)](#)
 </details>
 
 <details>
