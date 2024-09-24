@@ -18,9 +18,11 @@ feel free to reach out for any reason. emailing me is the best way to reach me, 
 
 <h3> things i've made </h3>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cole-sullivan\&repo=python-interpreter\&show_owner=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cole-sullivan\&repo=distro-install\&show_owner=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cole-sullivan\&repo=shell-interface\&show_owner=true)
+  * [script](https://github.com/cole-sullivan/distro-install "cole-sullivan/distro-install") to automate the setup and configuration of a new linux machine
+  * basic [command-line interface](https://github.com/cole-sullivan/shell-interface "cole-sullivan/shell-interface")
+  * a (partial) recreation of the [python interpreter](https://github.com/cole-sullivan/python-interpreter "cole-sullivan/python-interpreter") from scratch
+
+more can be found on my github profile, but may be incomplete
 
 ---
 
