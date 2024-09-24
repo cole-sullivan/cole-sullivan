@@ -49,6 +49,7 @@ more can be found on my github profile, but may be incomplete
   > [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
   > [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)
   > [![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff)](#)
+  > [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 </details>
 
 <details>
