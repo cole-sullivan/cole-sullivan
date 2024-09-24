@@ -3,7 +3,7 @@
   <img alt="Hello!" src="./assets/hello-light.gif" width="192" height="36">
 </picture>
 
-welcome to my profile! right now I'm working on building a python interpreter from scratch
+welcome to my profile! right now I'm working on [building a python interpreter from scratch](https://github.com/cole-sullivan/python-interpreter "cole-sullivan/python-interpreter")
 
 ---
 
