@@ -21,6 +21,7 @@ feel free to reach out for any reason. emailing me is the best way to reach me, 
   * [script](https://github.com/cole-sullivan/distro-install "cole-sullivan/distro-install") to automate the setup and configuration of a new linux machine
   * basic [command-line interface](https://github.com/cole-sullivan/cli-shell "cole-sullivan/cli-shell")
   * a (partial) recreation of the [python interpreter](https://github.com/cole-sullivan/python-interpreter "cole-sullivan/python-interpreter") from scratch
+  * [visualization](https://github.com/cole-sullivan/edmondskarp "cole-sullivan/edmondskarp") of the edmonds-karp algorithm
 
 more can be found on my github profile, but may be incomplete
 
