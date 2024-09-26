@@ -18,7 +18,7 @@ feel free to reach out for any reason. emailing me is the best way to reach me, 
 
 <h3> things i've made </h3>
 
-  * [script](https://github.com/cole-sullivan/distro-install "cole-sullivan/distro-install") to automate the setup and configuration of a new linux machine
+  * [script](https://github.com/cole-sullivan/easyrice "cole-sullivan/easyrice") to automate the setup and configuration of a new linux machine
   * basic [cli shell](https://github.com/cole-sullivan/cli-shell "cole-sullivan/cli-shell")
   * a (partial) recreation of the [python interpreter](https://github.com/cole-sullivan/python-interpreter "cole-sullivan/python-interpreter") from scratch
   * [visualization](https://github.com/cole-sullivan/edmondskarp "cole-sullivan/edmondskarp") of the edmonds-karp algorithm
