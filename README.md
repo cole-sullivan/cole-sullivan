@@ -3,7 +3,7 @@
   <img alt="Hello!" src="./assets/hello-light.gif" width="192" height="36">
 </picture>
 
-welcome to my profile! right now I'm working on building a [python interpreter](https://github.com/cole-sullivan/python-interpreter "cole-sullivan/python-interpreter") from scratch
+welcome to my profile!
 
 ---
 
@@ -22,8 +22,6 @@ feel free to reach out for any reason. emailing me is the best way to reach me, 
   * basic [cli shell](https://github.com/cole-sullivan/cli-shell "cole-sullivan/cli-shell")
   * a (partial) recreation of the [python interpreter](https://github.com/cole-sullivan/python-interpreter "cole-sullivan/python-interpreter") from scratch
   * [visualization](https://github.com/cole-sullivan/edmondskarp "cole-sullivan/edmondskarp") of the edmonds-karp algorithm
-
-more can be found on my github profile, but may be incomplete
 
 ---
 
