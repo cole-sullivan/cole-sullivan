@@ -3,10 +3,6 @@
   <img alt="Hello!" src="./assets/hello-light.gif" width="192" height="36">
 </picture>
 
-welcome to my profile!
-
----
-
 <h3> contact </h3>
 
   * [email](mailto:contact@colesullivan.us "contact@colesullivan.us")
