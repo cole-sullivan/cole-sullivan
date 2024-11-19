@@ -8,8 +8,6 @@
   * [email](mailto:contact@colesullivan.us "contact@colesullivan.us")
   * [linkedin](https://www.linkedin.com/in/sullivan-cole "in/sullivan-cole")
 
-feel free to reach out for any reason. emailing me is the best way to reach me, but my dms on linkedin are also open
-
 ---
 
 <h3> things i've made </h3>
