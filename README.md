@@ -12,8 +12,8 @@
 
 <h3> things i've made </h3>
 
-  * my own [linux meta-distribution](https://github.com/cole-sullivan/dotfiles), as well as a [script](https://github.com/cole-sullivan/easyrice "cole-sullivan/easyrice") to automate its installation on a new machine
-  * basic [cli shell](https://github.com/cole-sullivan/cli-shell "cole-sullivan/cli-shell")
+  * my own [linux meta-distribution](https://github.com/cole-sullivan/dotfiles "cole-sullivan/dotfiles"), as well as a [script](https://github.com/cole-sullivan/easyrice "cole-sullivan/easyrice") to automate its installation on a new machine
+  * [seller and admin dashboard](https://github.com/keatonrohlfs/QUAD "keatonrohlfs/QUAD") for a local clothes resale platform
   * a (partial) recreation of the [python interpreter](https://github.com/cole-sullivan/python-interpreter "cole-sullivan/python-interpreter") from scratch
   * [visualization](https://github.com/cole-sullivan/edmondskarp "cole-sullivan/edmondskarp") of the edmonds-karp algorithm
 
