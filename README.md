@@ -52,7 +52,6 @@
   > [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff "Git")](#)
   > [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white "GitHub")](#)
   > [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff "Docker")](#)
-  > [![Make](https://img.shields.io/badge/Make-A42E2B?logo=gnu&logoColor=fff "Make")](#)
 </details>
 
 <details>
