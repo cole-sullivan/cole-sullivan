@@ -3,13 +3,13 @@
   <img alt="Hello!" src="./assets/hello-light.gif" width="192" height="36">
 </picture>
 
-<h3> contact </h3>
+<h3> Contact </h3>
 
   * [email](mailto:contact@colesullivan.us "contact@colesullivan.us")
   * [linkedin](https://www.linkedin.com/in/sullivan-cole "in/sullivan-cole")
 
 
-<h3> my toolbox </h3>
+<h3> My Toolbox </h3>
 
 <details>
   <summary><strong> Programming Languages </strong> <sub> (click to expand) </sub></summary>
